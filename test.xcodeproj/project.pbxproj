@@ -16,6 +16,7 @@
 		3110F68B1EC77C1C000BA95B /* Record.m in Sources */ = {isa = PBXBuildFile; fileRef = 3110F68A1EC77C1C000BA95B /* Record.m */; };
 		3110F68E1EC780F6000BA95B /* RecordCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3110F68D1EC780F6000BA95B /* RecordCell.m */; };
 		3110F6941EC7BCBD000BA95B /* ShadowingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3110F6931EC7BCBD000BA95B /* ShadowingView.m */; };
+		3110F6961EC7CB61000BA95B /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 3110F6951EC7CB61000BA95B /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		3110F68D1EC780F6000BA95B /* RecordCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecordCell.m; sourceTree = "<group>"; };
 		3110F6921EC7BCBD000BA95B /* ShadowingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShadowingView.h; sourceTree = "<group>"; };
 		3110F6931EC7BCBD000BA95B /* ShadowingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShadowingView.m; sourceTree = "<group>"; };
+		3110F6951EC7CB61000BA95B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		3110F6631EC77BA4000BA95B = {
 			isa = PBXGroup;
 			children = (
+				3110F6951EC7CB61000BA95B /* README.md */,
 				3110F66E1EC77BA4000BA95B /* test */,
 				3110F66D1EC77BA4000BA95B /* Products */,
 			);
@@ -169,6 +172,7 @@
 				3110F6881EC77BD8000BA95B /* ViewController.m in Sources */,
 				3110F6741EC77BA4000BA95B /* AppDelegate.m in Sources */,
 				3110F6941EC7BCBD000BA95B /* ShadowingView.m in Sources */,
+				3110F6961EC7CB61000BA95B /* README.md in Sources */,
 				3110F68E1EC780F6000BA95B /* RecordCell.m in Sources */,
 				3110F68B1EC77C1C000BA95B /* Record.m in Sources */,
 				3110F6711EC77BA4000BA95B /* main.m in Sources */,
@@ -330,6 +334,7 @@
 				3110F6851EC77BA4000BA95B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
